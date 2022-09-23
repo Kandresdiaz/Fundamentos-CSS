@@ -1,0 +1,17 @@
+*{
+    border: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+.container-fluid {
+    border: 1px solid;
+}
+
+.contenedor-principal{
+    height: 500px;
+    width: 500px;
+    align-items: center;
+    margin-left: 30%;
+    padding-top: 20%;
+}
